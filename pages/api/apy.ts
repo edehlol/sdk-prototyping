@@ -15,7 +15,7 @@ export default async function handler(
     attendees_emails: ["e@edy.com"],
     location: "My Event Location",
     start_time: "08:00",
-    end_time: "09:00",
+    end_time: "09:01",
     meeting_date: "30-11-2022",
     recurring: true,
     recurrence: {
